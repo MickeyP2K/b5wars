@@ -1,0 +1,362 @@
+{
+  "starting_map": "",
+  "phases": {
+    "phase": [
+    {
+      "label": "Power Allocation",
+      "status": "Complete",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Complete",
+            "date_submitted": "",
+            "original_text": "Jammers switched off.",
+            "final_text": "Jammers switched off.",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Complete",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+      }
+    },
+    {
+      "label": "Initiative",
+      "status": "Started",
+      "date_started": "",
+      "ships": {
+        "ship": [
+          {
+            "player_id": "2",
+            "ship_id": "1",
+            "initiative": "1"
+          },
+          {
+            "player_id": "1",
+            "ship_id": "2",
+            "initiative": "14"
+          },
+          {
+            "player_id": "1",
+            "ship_id": "3",
+            "initiative": "14"
+          }
+        ]
+      }
+    },
+    {
+      "label": "EW, Ballistics and Jump Points",
+      "status": "Complete",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Complete",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Complete",
+            "date_submitted": "",
+            "original_text": "All ships max EW against Sharlin.",
+            "final_text": "All ships max EW against Sharlin.",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    },
+    {
+      "label": "Movement 0-5",
+      "status": "Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Movement 6-10",
+      "status": "Not Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Movement 11-15",
+      "status": "Not Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Movement 16-20",
+      "status": "Not Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Movement 21-30",
+      "status": "Not Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Movement 31+",
+      "status": "Not Started",
+      "date_started": "",
+      "final_map": "",
+      "orders": {
+        "order": [
+          {
+                  "player_id": "2",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                },
+                {
+                  "player_id": "1",
+                  "status": "Not viewed.",
+                  "date_submitted": "",
+                  "original_text": "",
+                  "final_text": "",
+                  "narrative_text": ""
+                }         
+              ]
+            }
+    },
+    {
+      "label": "Allocate weapons",
+      "status": "Not Started",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    },
+    {
+      "label": "Allocate defensive fire",
+      "status": "Not Started",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    },
+    {
+      "label": "Open Fire!",
+      "status": "Not Started",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    },
+    {
+      "label": "Damage Reports",
+      "status": "Not Started",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    },
+    {
+      "label": "Critical hits",
+      "status": "Not Started",
+      "date_started": "",
+      "orders": {
+        "order": [
+          {
+            "player_id": "2",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          },
+          {
+            "player_id": "1",
+            "status": "Not viewed",
+            "date_submitted": "",
+            "original_text": "",
+            "final_text": "",
+            "narrative_text": ""
+          }         
+        ]
+        }
+    }
+    ]
+  }
+}
